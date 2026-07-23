@@ -36,25 +36,6 @@ Building secure, scalable applications while continuously learning modern softwa
 
 ---
 
-# 🚀 Featured Projects
-
-### 🖥️ SIGFA
-A Smart Queue Management Platform built using Laravel, React, React Native, MySQL and Firebase.
-
----
-
-### 🤖 AI Automation Dashboard
-
-Modern SaaS dashboard focused on automation and productivity.
-
----
-
-### 🌐 Full Stack Applications
-
-Building responsive web applications using modern technologies like React, Next.js, Node.js and Spring Boot.
-
----
-
 ### 🔐 Cybersecurity Labs
 
 Currently documenting security labs, CTFs and penetration testing practice.
