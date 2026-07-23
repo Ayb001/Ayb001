@@ -1,6 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Ayoub
+# 👋 Hi, I'm 
+<div align="center">
+
+```text
+  ______                                 __       
+ /      \                               |  \      
+|  $$$$$$\ __    __   ______   __    __ | $$____  
+| $$__| $$|  \  |  \ /      \ |  \  |  \| $$    \ 
+| $$    $$| $$  | $$|  $$$$$$\| $$  | $$| $$$$$$$\
+| $$$$$$$$| $$  | $$| $$  | $$| $$  | $$| $$  | $$
+| $$  | $$| $$__/ $$| $$__/ $$| $$__/ $$| $$__/ $$
+| $$  | $$ \$$    $$ \$$    $$ \$$    $$| $$    $$
+ \$$   \$$ _\$$$$$$$  \$$$$$$   \$$$$$$  \$$$$$$$ 
+          |  \__| $$                              
+           \$$    $$                              
+            \$$$$$$                               
+```
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+Developer;Cybersecurity+Student;Building+Secure+Applications;Always+Learning+Something+New"/>
 
@@ -67,11 +85,8 @@ Building secure, scalable software that solves real-world problems.
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayb001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayb001&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayb001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayb001&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
