@@ -141,7 +141,7 @@ while(alive){
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:aghjedimayoub@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
